@@ -1,0 +1,6 @@
+.input {
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}

@@ -1,0 +1,8 @@
+.todoItem {
+    padding-left: 500px;
+    height: 30px;
+}
+
+.todoItem p {
+    font-size: large;
+}

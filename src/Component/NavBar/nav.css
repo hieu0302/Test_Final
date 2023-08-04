@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+}
+
+header .Nav {
+    display: flex;
+    gap: 30%;
+    justify-content: center;
+    border-bottom: solid rgb(209, 209, 209) 1px;
+    margin: 0 30%;
+}
